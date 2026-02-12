@@ -1,0 +1,28 @@
+
+# Virtual environment
+.venv/
+
+# Environment variables (contains passwords)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+logs/
+
+# Data folders (large files, don't commit)
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Architecture file
+project_architecture.txt
