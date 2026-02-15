@@ -1,3 +1,3 @@
-
 CREATE SCHEMA staging;
 CREATE SCHEMA final;
+CREATE SCHEMA metadata;
